@@ -1,7 +1,16 @@
 {
-	"font_size": 11,
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-google-dark.tmTheme",
+	"draw_indent_guides": false,
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage",
+		"Anaconda",
+		"Vintage"
 	],
+	"margin": 0,
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": false,
+	"update_check": false,
+	"word_wrap": false
 }
